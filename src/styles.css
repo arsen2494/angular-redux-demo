@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+body {
+    padding: 20px;
+}
+
+button.btn.btn-success {
+  margin: 0 0 15px 0;
+}
